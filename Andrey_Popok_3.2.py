@@ -1,0 +1,13 @@
+x1 = float(input("Enter number 1: "))
+x2 = float(input("Enter number 2: "))
+x3 = float(input("Enter number 3: "))
+x4 = float(input("Enter number 4: "))
+x5 = float(input("Enter number 5: "))
+x6 = float(input("Enter number 6: "))
+x7 = float(input("Enter number 7: "))
+x8 = float(input("Enter number 8: "))
+x9 = float(input("Enter number 9: "))
+x10 = float(input("Enter number 10: "))
+
+print("Max value among 10 numbers is:",max(x1,x2,x3,x4,x5,x6,x7,x8,x9,x10))
+print("Min value among 10 numbers is:",min(x1,x2,x3,x4,x5,x6,x7,x8,x9,x10))
